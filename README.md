@@ -14,9 +14,10 @@ This To Do List will help you create and organize all your work in one place.
 - Atlas
 
 ## *Languages:*
-JavaScript, EJS, HTML, CSS
-*Server:* Node.js
-Database: Mongodb, Mongoose
+- JavaScript, EJS, HTML, CSS
+- *Server:* Node.js
+- *Database:* Mongodb, Mongoose
 
 ## *Website Preview*
-1) 
+1) Add and Delete Items in the list
+

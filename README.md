@@ -10,7 +10,8 @@
 This To Do List will help you create and organize all your work in one place.
 
 ## *Tools used:*
-Atom text editor, Atlas
+- Atom text editor
+- Atlas
 
 ## *Languages:*
 JavaScript, EJS, HTML, CSS

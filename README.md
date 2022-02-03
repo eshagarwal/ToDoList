@@ -15,7 +15,7 @@ This project is live on: 🌎https://safe-hamlet-78824.herokuapp.com/
 ## *Website Preview & Database:*
 1) Add and Delete Items in the list
 
-https://user-images.githubusercontent.com/90748822/152344159-76b23dac-98ec-4d4d-bab5-b10a76c37adb.mp4
+https://user-images.githubusercontent.com/90748822/152348471-c44f43cd-cdab-47d3-875f-74118c70e5d6.mp4
 
 - Here we are using MongoDB Atlas(Cloud) as the database. We have created a collection named *items*.
 
@@ -23,7 +23,7 @@ https://user-images.githubusercontent.com/90748822/152344159-76b23dac-98ec-4d4d-
 
 2) Add your custom list
 
-https://user-images.githubusercontent.com/90748822/152344235-acf9646c-931d-4445-8826-9c66f9a45d28.mp4
+https://user-images.githubusercontent.com/90748822/152348549-d8a5662f-c7d2-4dbc-bc67-355a141e120e.mp4
 
 - Here we are using MongoDB Atlas(Cloud) as the database. We have created a collection named *lists*.
 

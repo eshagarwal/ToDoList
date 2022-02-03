@@ -15,7 +15,7 @@ This project is live on: 🌎https://safe-hamlet-78824.herokuapp.com/
 ## *Website Preview & Database:*
 1) Add and Delete Items in the list
 
-https://user-images.githubusercontent.com/90748822/152348471-c44f43cd-cdab-47d3-875f-74118c70e5d6.mp4
+https://user-images.githubusercontent.com/90748822/152349622-1be5e6e7-1e15-4695-b923-613ae6098db1.mov
 
 - Here we are using MongoDB Atlas(Cloud) as the database. We have created a collection named *items*.
 

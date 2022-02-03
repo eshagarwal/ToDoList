@@ -7,7 +7,7 @@
 3. Gayatri Morey
 
 ## *What is this for?*
-This is a To-Do List that will help you to create and organize all your work in one place with Node.js Framework using MongoDB(Atlas) as the data store, Express as the routing system, Body-parser as the parser for webpage and Mongoose to make interacting with Mongo from Node easy.
+This is a To-Do List that will help you create and organize all your work in one place with Node.js Framework using MongoDB(Atlas) as the data store, Express as the routing system, Body-parser as the parser for webpage and Mongoose to make interacting with Mongo from Node easy.
 
 ## *Deployment:*
 This project is live on: 🌎https://safe-hamlet-78824.herokuapp.com/

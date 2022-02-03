@@ -6,18 +6,30 @@
 2. Esha Agarwal
 3. Gayatri Morey
 
-## *Description:*
-This To Do List will help you create and organize all your work in one place.
+## *What is this for?*
+This is a To-Do List that will help you to create and organize all your work in one place with Node.js Framework using MongoDB(Atlas) as the data store, Express as the routing system, Body-parser as the parser for webpage and Mongoose to make interacting with Mongo from Node easy.
 
-## *Tools used:*
-- Atom text editor
-- Atlas
+## *Deployment:*
+This project is live on: 🌎https://safe-hamlet-78824.herokuapp.com/
 
-## *Languages:*
-- JavaScript, EJS, HTML, CSS
-- *Server:* Node.js
-- *Database:* Mongodb, Mongoose
-
-## *Website Preview*
+## *Website Preview & Database:*
 1) Add and Delete Items in the list
 
+
+
+- Here we are using MongoDB Atlas(Cloud) as the database. We have created a collection named *items*.
+
+<img width="858" alt="Atlas_items" src="https://user-images.githubusercontent.com/90748822/152329900-97908e5f-ded6-461d-9f90-0b82a6f02508.png">
+
+2) Add your custom list
+
+
+
+- Here we are using MongoDB Atlas(Cloud) as the database. We have created a collection named *lists*.
+
+<img width="855" alt="Atlas_lists" src="https://user-images.githubusercontent.com/90748822/152329994-4af07332-97dc-4d0b-b21c-f66edfe094a3.png">
+
+## *Tools required to run this website:*
+- Atom text editor
+- Node.js
+- *Languages:* JavaScript, EJS, HTML, CSS
